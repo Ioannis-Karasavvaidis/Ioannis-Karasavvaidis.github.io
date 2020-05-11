@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Digital Monkey Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ioannis Karasavvaidis`,
+      summary: `who lives and works in Belfast, Northern ireland.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Monkeying everything since 2000 :)`,
+    siteUrl: `https://Ioannis-Karasavvaidis.github.io`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `comfucios`,
     },
   },
   plugins: [
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-21970489-6`,
       },
     },
     `gatsby-plugin-feed`,
