@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Digital Monkey Blog`,
+    title: `Digital Monkey`,
     author: {
       name: `Ioannis Karasavvaidis`,
       summary: `who lives and works in Belfast, Northern ireland.`,
     },
-    description: `Monkeying everything since 2000 :)`,
+    description: `Monkeying everything since 2007 :)`,
     siteUrl: `https://Ioannis-Karasavvaidis.github.io`,
     social: {
       twitter: `comfucios`,
