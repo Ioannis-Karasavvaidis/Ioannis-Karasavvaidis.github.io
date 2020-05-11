@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: xmflsct/action-publish-gatsby@v1
+      - uses: xmflsct/action-publish-gatsby
         with:
           token: ${{ secrets.TOKEN }}
