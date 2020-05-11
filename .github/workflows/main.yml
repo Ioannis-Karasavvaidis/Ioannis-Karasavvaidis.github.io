@@ -14,3 +14,5 @@ jobs:
       - uses: xmflsct/action-publish-gatsby@v1.0.0
         with:
           token: ${{ secrets.TOKEN }}
+          name: "Ioannis Karasavvaidis"
+          email: "john@studio110.eu"
